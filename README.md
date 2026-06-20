@@ -1,6 +1,6 @@
 # Interfaz Hombre-Máquina (HMI) Bimodal de Doble Autenticación
 
-Este repositorio contiene el desarrollo del proyecto final para la materia de Administración y Gestión Hospitalaria / Ingeniería Biomédica. El sistema consiste en una interfaz bimodal que integra el procesamiento de señales electromiográficas (EMG) y el reconocimiento de comandos de voz en tiempo real para el control seguro de actuadores.
+Este repositorio contiene el desarrollo del proyecto final para la materia de Procesamiento de señales biomédicas / Ingeniería Biomédica. El sistema consiste en una interfaz bimodal que integra el procesamiento de señales electromiográficas (EMG) y el reconocimiento de comandos de voz en tiempo real para el control seguro de actuadores.
 
 ## 👥 Integrantes del Equipo
 * **Daniek Armas** - *Ingeniería Biomédica*
