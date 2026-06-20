@@ -15,9 +15,9 @@ El proyecto se encuentra organizado bajo la estructura requerida:
 
 * **`/Hardware`**: Contiene los diagramas de conexión, esquemáticos del circuito de acondicionamiento analógico (amplificador de instrumentación AD620, filtros y etapas de ganancia con LM358) y la etapa de adquisición con el ESP32.
 * **`/Software`**: Aloja los scripts desarrollados en Python:
-  * `silencio.py`: Grabación de ruido de fondo ambiental.
-  * `calcular_silencio.py`: Calibración estadística de umbrales mediante el criterio de las 3 sigmas.
-  * `ultima_interfaz.py`: Sistema en tiempo real con interfaz gráfica (Tkinter), procesamiento FFT, ventanas de Hamming y emparejamiento por Correlación de Pearson bajo una ventana de seguridad bimodal de 2.0 segundos.
+  * `archivo de grabacion de plantillas.py`: Grabación de ruido de fondo ambiental.
+  * `calcular e y zcr de plantillas.py`: Calibración estadística de umbrales mediante el criterio de las 3 sigmas.
+  * `Interfaz humano-máquina por gestos con doble seguridad.py`: Sistema en tiempo real con interfaz gráfica (Tkinter), procesamiento FFT, ventanas de Hamming y emparejamiento por Correlación de Pearson bajo una ventana de seguridad bimodal de 2.0 segundos.
 * **`/Reporte`**: Incluye el artículo científico final redactado bajo la estricta plantilla de conferencias de la IEEE tanto en formato **PDF** (máximo 4 páginas) como su archivo editable **.docx**.
 
 ---
