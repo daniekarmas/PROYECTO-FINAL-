@@ -28,3 +28,15 @@ Para ejecutar el software de este proyecto en un entorno local (compatible con W
 
 ```bash
 pip install numpy sounddevice soundfile scipy
+
+Ejecución:
+1. Conecte el hardware (ESP32 y electrodos EMG) al puerto correspondiente.
+
+2. Ejecute la interfaz en vivo desde la carpeta /Software:
+        python ultima_interfaz.py
+
+Especificaciones del Sistema:
+Frecuencia de Muestreo de Voz: 16,000 Hz
+Tamaño de Bloque (Block Size): 1024 muestras
+Ventana de Seguridad Bimodal: 2.0 segundos (tiempo límite para hablar tras la activación por EMG).
+Criterio de Calibración: Regla de las 3 sigmas para filtrado robusto del ruido de fondo de la habitación.
