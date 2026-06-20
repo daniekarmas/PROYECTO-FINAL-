@@ -18,7 +18,7 @@ El proyecto se encuentra organizado bajo la estructura requerida:
   * `archivo de grabacion de plantillas.py`: Grabación de ruido de fondo ambiental.
   * `calcular e y zcr de plantillas.py`: Calibración estadística de umbrales mediante el criterio de las 3 sigmas.
   * `Interfaz humano-máquina por gestos con doble seguridad.py`: Sistema en tiempo real con interfaz gráfica (Tkinter), procesamiento FFT, ventanas de Hamming y emparejamiento por Correlación de Pearson bajo una ventana de seguridad bimodal de 2.0 segundos.
-* **`/Reporte`**: Incluye el artículo científico final redactado bajo la estricta plantilla de conferencias de la IEEE tanto en formato **PDF** (máximo 4 páginas) como su archivo editable **.docx**.
+* **`/Reporte`**: Incluye el artículo científico final redactado bajo la estricta plantilla de conferencias de la IEEE tanto en formato **PDF** como su archivo editable **.docx**.
 
 ---
 
